@@ -1,0 +1,440 @@
+car 1 heading 1 wants to enter. Monitor: 0
+car 1 heading 1 enters the bridge. Monitor: 1
+car 1 heading 1 leaving the bridge. Monitor: 2
+car 1 heading 1 out of the bridge. Monitor: 3
+pedestrian 1 wants to enter. Monitor: 1
+pedestrian 1 enters the bridge. Monitor: 3
+pedestrian 1 leaving the bridge. Monitor: 6
+pedestrian 1 out of the bridge. Monitor: 7
+car 2 heading 1 wants to enter. Monitor: 3
+car 2 heading 1 enters the bridge. Monitor: 7
+car 2 heading 1 leaving the bridge. Monitor: 7
+car 2 heading 1 out of the bridge. Monitor: 8
+car 4 heading 1 wants to enter. Monitor: 5
+car 4 heading 1 enters the bridge. Monitor: 7
+car 4 heading 1 leaving the bridge. Monitor: 8
+car 4 heading 1 out of the bridge. Monitor: 9
+car 3 heading 1 wants to enter. Monitor: 4
+car 3 heading 1 enters the bridge. Monitor: 7
+car 3 heading 1 leaving the bridge. Monitor: 9
+car 3 heading 1 out of the bridge. Monitor: 10
+car 5 heading 1 wants to enter. Monitor: 10
+car 5 heading 1 enters the bridge. Monitor: 11
+car 5 heading 1 leaving the bridge. Monitor: 12
+car 5 heading 1 out of the bridge. Monitor: 13
+car 6 heading 1 wants to enter. Monitor: 11
+car 6 heading 1 enters the bridge. Monitor: 12
+car 6 heading 1 leaving the bridge. Monitor: 13
+car 6 heading 1 out of the bridge. Monitor: 14
+car 7 heading 0 wants to enter. Monitor: 14
+car 7 heading 0 enters the bridge. Monitor: 15
+car 7 heading 0 leaving the bridge. Monitor: 15
+car 7 heading 0 out of the bridge. Monitor: 16
+car 8 heading 0 wants to enter. Monitor: 16
+car 8 heading 0 enters the bridge. Monitor: 17
+car 8 heading 0 leaving the bridge. Monitor: 17
+car 8 heading 0 out of the bridge. Monitor: 18
+car 9 heading 0 wants to enter. Monitor: 18
+car 9 heading 0 enters the bridge. Monitor: 19
+car 9 heading 0 leaving the bridge. Monitor: 19
+car 9 heading 0 out of the bridge. Monitor: 20
+car 10 heading 0 wants to enter. Monitor: 20
+car 10 heading 0 enters the bridge. Monitor: 21
+car 10 heading 0 leaving the bridge. Monitor: 21
+car 10 heading 0 out of the bridge. Monitor: 22
+car 11 heading 1 wants to enter. Monitor: 22
+car 11 heading 1 enters the bridge. Monitor: 23
+car 11 heading 1 leaving the bridge. Monitor: 23
+car 11 heading 1 out of the bridge. Monitor: 24
+car 12 heading 1 wants to enter. Monitor: 24
+car 12 heading 1 enters the bridge. Monitor: 25
+car 12 heading 1 leaving the bridge. Monitor: 25
+car 12 heading 1 out of the bridge. Monitor: 26
+car 13 heading 1 wants to enter. Monitor: 26
+car 13 heading 1 enters the bridge. Monitor: 27
+car 13 heading 1 leaving the bridge. Monitor: 27
+car 13 heading 1 out of the bridge. Monitor: 28
+car 14 heading 1 wants to enter. Monitor: 28
+car 14 heading 1 enters the bridge. Monitor: 29
+car 14 heading 1 leaving the bridge. Monitor: 29
+car 14 heading 1 out of the bridge. Monitor: 30
+car 15 heading 1 wants to enter. Monitor: 30
+car 15 heading 1 enters the bridge. Monitor: 31
+car 15 heading 1 leaving the bridge. Monitor: 31
+car 15 heading 1 out of the bridge. Monitor: 32
+car 16 heading 0 wants to enter. Monitor: 32
+car 16 heading 0 enters the bridge. Monitor: 33
+car 16 heading 0 leaving the bridge. Monitor: 33
+car 16 heading 0 out of the bridge. Monitor: 34
+car 17 heading 1 wants to enter. Monitor: 34
+car 17 heading 1 enters the bridge. Monitor: 35
+car 17 heading 1 leaving the bridge. Monitor: 35
+car 17 heading 1 out of the bridge. Monitor: 36
+car 18 heading 1 wants to enter. Monitor: 36
+car 18 heading 1 enters the bridge. Monitor: 37
+car 18 heading 1 leaving the bridge. Monitor: 37
+car 18 heading 1 out of the bridge. Monitor: 38
+car 19 heading 1 wants to enter. Monitor: 38
+car 19 heading 1 enters the bridge. Monitor: 39
+car 19 heading 1 leaving the bridge. Monitor: 39
+car 19 heading 1 out of the bridge. Monitor: 40
+car 20 heading 1 wants to enter. Monitor: 40
+car 20 heading 1 enters the bridge. Monitor: 41
+car 20 heading 1 leaving the bridge. Monitor: 41
+car 20 heading 1 out of the bridge. Monitor: 42
+car 21 heading 0 wants to enter. Monitor: 42
+car 21 heading 0 enters the bridge. Monitor: 43
+car 21 heading 0 leaving the bridge. Monitor: 43
+car 21 heading 0 out of the bridge. Monitor: 44
+car 22 heading 1 wants to enter. Monitor: 44
+car 22 heading 1 enters the bridge. Monitor: 45
+car 22 heading 1 leaving the bridge. Monitor: 45
+car 22 heading 1 out of the bridge. Monitor: 46
+car 23 heading 0 wants to enter. Monitor: 46
+car 23 heading 0 enters the bridge. Monitor: 47
+car 23 heading 0 leaving the bridge. Monitor: 47
+car 23 heading 0 out of the bridge. Monitor: 48
+car 24 heading 1 wants to enter. Monitor: 48
+car 24 heading 1 enters the bridge. Monitor: 49
+car 24 heading 1 leaving the bridge. Monitor: 49
+car 24 heading 1 out of the bridge. Monitor: 50
+car 25 heading 1 wants to enter. Monitor: 50
+car 25 heading 1 enters the bridge. Monitor: 51
+car 25 heading 1 leaving the bridge. Monitor: 51
+car 25 heading 1 out of the bridge. Monitor: 52
+car 26 heading 0 wants to enter. Monitor: 52
+car 26 heading 0 enters the bridge. Monitor: 53
+car 26 heading 0 leaving the bridge. Monitor: 53
+car 26 heading 0 out of the bridge. Monitor: 54
+pedestrian 2 wants to enter. Monitor: 54
+pedestrian 2 enters the bridge. Monitor: 55
+pedestrian 2 leaving the bridge. Monitor: 56
+pedestrian 2 out of the bridge. Monitor: 57
+car 27 heading 0 wants to enter. Monitor: 55
+car 27 heading 0 enters the bridge. Monitor: 57
+car 27 heading 0 leaving the bridge. Monitor: 57
+car 27 heading 0 out of the bridge. Monitor: 58
+car 28 heading 1 wants to enter. Monitor: 58
+car 28 heading 1 enters the bridge. Monitor: 59
+car 28 heading 1 leaving the bridge. Monitor: 59
+car 28 heading 1 out of the bridge. Monitor: 60
+car 29 heading 0 wants to enter. Monitor: 60
+car 29 heading 0 enters the bridge. Monitor: 61
+car 29 heading 0 leaving the bridge. Monitor: 61
+car 29 heading 0 out of the bridge. Monitor: 62
+car 30 heading 0 wants to enter. Monitor: 62
+car 30 heading 0 enters the bridge. Monitor: 63
+car 30 heading 0 leaving the bridge. Monitor: 63
+car 30 heading 0 out of the bridge. Monitor: 64
+car 31 heading 1 wants to enter. Monitor: 64
+car 31 heading 1 enters the bridge. Monitor: 65
+car 31 heading 1 leaving the bridge. Monitor: 65
+car 31 heading 1 out of the bridge. Monitor: 66
+pedestrian 3 wants to enter. Monitor: 66
+pedestrian 3 enters the bridge. Monitor: 67
+pedestrian 3 leaving the bridge. Monitor: 72
+pedestrian 3 out of the bridge. Monitor: 73
+car 32 heading 1 wants to enter. Monitor: 67
+car 32 heading 1 enters the bridge. Monitor: 73
+car 32 heading 1 leaving the bridge. Monitor: 73
+car 32 heading 1 out of the bridge. Monitor: 74
+car 33 heading 1 wants to enter. Monitor: 68
+car 33 heading 1 enters the bridge. Monitor: 73
+car 33 heading 1 leaving the bridge. Monitor: 74
+car 33 heading 1 out of the bridge. Monitor: 75
+car 36 heading 1 wants to enter. Monitor: 71
+car 36 heading 1 enters the bridge. Monitor: 73
+car 36 heading 1 leaving the bridge. Monitor: 75
+car 36 heading 1 out of the bridge. Monitor: 76
+car 34 heading 1 wants to enter. Monitor: 69
+car 34 heading 1 enters the bridge. Monitor: 73
+car 34 heading 1 leaving the bridge. Monitor: 76
+car 34 heading 1 out of the bridge. Monitor: 77
+car 35 heading 0 wants to enter. Monitor: 70
+car 35 heading 0 enters the bridge. Monitor: 77
+car 35 heading 0 leaving the bridge. Monitor: 77
+car 35 heading 0 out of the bridge. Monitor: 78
+car 37 heading 1 wants to enter. Monitor: 78
+car 37 heading 1 enters the bridge. Monitor: 79
+car 37 heading 1 leaving the bridge. Monitor: 79
+car 37 heading 1 out of the bridge. Monitor: 80
+car 38 heading 1 wants to enter. Monitor: 80
+car 38 heading 1 enters the bridge. Monitor: 81
+car 38 heading 1 leaving the bridge. Monitor: 81
+car 38 heading 1 out of the bridge. Monitor: 82
+car 39 heading 0 wants to enter. Monitor: 82
+car 39 heading 0 enters the bridge. Monitor: 83
+car 39 heading 0 leaving the bridge. Monitor: 83
+car 39 heading 0 out of the bridge. Monitor: 84
+car 40 heading 0 wants to enter. Monitor: 84
+car 40 heading 0 enters the bridge. Monitor: 85
+car 40 heading 0 leaving the bridge. Monitor: 85
+car 40 heading 0 out of the bridge. Monitor: 86
+car 41 heading 1 wants to enter. Monitor: 86
+car 41 heading 1 enters the bridge. Monitor: 87
+car 41 heading 1 leaving the bridge. Monitor: 87
+car 41 heading 1 out of the bridge. Monitor: 88
+car 42 heading 1 wants to enter. Monitor: 88
+car 42 heading 1 enters the bridge. Monitor: 89
+car 42 heading 1 leaving the bridge. Monitor: 89
+car 42 heading 1 out of the bridge. Monitor: 90
+car 43 heading 1 wants to enter. Monitor: 90
+car 43 heading 1 enters the bridge. Monitor: 91
+car 43 heading 1 leaving the bridge. Monitor: 91
+car 43 heading 1 out of the bridge. Monitor: 92
+car 44 heading 1 wants to enter. Monitor: 92
+car 44 heading 1 enters the bridge. Monitor: 93
+car 44 heading 1 leaving the bridge. Monitor: 93
+car 44 heading 1 out of the bridge. Monitor: 94
+car 45 heading 0 wants to enter. Monitor: 94
+car 45 heading 0 enters the bridge. Monitor: 95
+car 45 heading 0 leaving the bridge. Monitor: 95
+car 45 heading 0 out of the bridge. Monitor: 96
+car 46 heading 1 wants to enter. Monitor: 96
+car 46 heading 1 enters the bridge. Monitor: 97
+car 46 heading 1 leaving the bridge. Monitor: 97
+car 46 heading 1 out of the bridge. Monitor: 98
+car 47 heading 0 wants to enter. Monitor: 98
+car 47 heading 0 enters the bridge. Monitor: 99
+car 47 heading 0 leaving the bridge. Monitor: 99
+car 47 heading 0 out of the bridge. Monitor: 100
+car 48 heading 0 wants to enter. Monitor: 100
+car 48 heading 0 enters the bridge. Monitor: 101
+car 48 heading 0 leaving the bridge. Monitor: 101
+car 48 heading 0 out of the bridge. Monitor: 102
+car 49 heading 0 wants to enter. Monitor: 102
+car 49 heading 0 enters the bridge. Monitor: 103
+car 49 heading 0 leaving the bridge. Monitor: 103
+car 49 heading 0 out of the bridge. Monitor: 104
+pedestrian 4 wants to enter. Monitor: 104
+pedestrian 4 enters the bridge. Monitor: 105
+pedestrian 4 leaving the bridge. Monitor: 109
+pedestrian 4 out of the bridge. Monitor: 110
+car 52 heading 1 wants to enter. Monitor: 107
+car 52 heading 1 enters the bridge. Monitor: 110
+car 52 heading 1 leaving the bridge. Monitor: 110
+car 52 heading 1 out of the bridge. Monitor: 111
+car 51 heading 1 wants to enter. Monitor: 106
+car 51 heading 1 enters the bridge. Monitor: 110
+car 51 heading 1 leaving the bridge. Monitor: 111
+car 51 heading 1 out of the bridge. Monitor: 112
+car 53 heading 1 wants to enter. Monitor: 108
+car 53 heading 1 enters the bridge. Monitor: 110
+car 53 heading 1 leaving the bridge. Monitor: 112
+car 53 heading 1 out of the bridge. Monitor: 113
+car 50 heading 0 wants to enter. Monitor: 105
+car 50 heading 0 enters the bridge. Monitor: 113
+car 50 heading 0 leaving the bridge. Monitor: 113
+car 50 heading 0 out of the bridge. Monitor: 114
+car 54 heading 1 wants to enter. Monitor: 114
+car 54 heading 1 enters the bridge. Monitor: 115
+car 54 heading 1 leaving the bridge. Monitor: 115
+car 54 heading 1 out of the bridge. Monitor: 116
+car 55 heading 0 wants to enter. Monitor: 116
+car 55 heading 0 enters the bridge. Monitor: 117
+car 55 heading 0 leaving the bridge. Monitor: 117
+car 55 heading 0 out of the bridge. Monitor: 118
+car 56 heading 0 wants to enter. Monitor: 118
+car 56 heading 0 enters the bridge. Monitor: 119
+car 56 heading 0 leaving the bridge. Monitor: 119
+car 56 heading 0 out of the bridge. Monitor: 120
+car 57 heading 0 wants to enter. Monitor: 120
+car 57 heading 0 enters the bridge. Monitor: 121
+car 57 heading 0 leaving the bridge. Monitor: 121
+car 57 heading 0 out of the bridge. Monitor: 122
+pedestrian 5 wants to enter. Monitor: 122
+pedestrian 5 enters the bridge. Monitor: 123
+pedestrian 5 leaving the bridge. Monitor: 125
+pedestrian 5 out of the bridge. Monitor: 126
+pedestrian 6 wants to enter. Monitor: 124
+pedestrian 6 enters the bridge. Monitor: 125
+pedestrian 6 leaving the bridge. Monitor: 129
+pedestrian 6 out of the bridge. Monitor: 130
+car 59 heading 1 wants to enter. Monitor: 126
+car 59 heading 1 enters the bridge. Monitor: 130
+car 59 heading 1 leaving the bridge. Monitor: 130
+car 59 heading 1 out of the bridge. Monitor: 131
+car 61 heading 1 wants to enter. Monitor: 128
+car 61 heading 1 enters the bridge. Monitor: 130
+car 61 heading 1 leaving the bridge. Monitor: 131
+car 61 heading 1 out of the bridge. Monitor: 132
+car 60 heading 0 wants to enter. Monitor: 127
+car 60 heading 0 enters the bridge. Monitor: 132
+car 60 heading 0 leaving the bridge. Monitor: 132
+car 60 heading 0 out of the bridge. Monitor: 133
+car 58 heading 0 wants to enter. Monitor: 123
+car 58 heading 0 enters the bridge. Monitor: 132
+car 58 heading 0 leaving the bridge. Monitor: 133
+car 58 heading 0 out of the bridge. Monitor: 134
+car 62 heading 0 wants to enter. Monitor: 134
+car 62 heading 0 enters the bridge. Monitor: 135
+car 62 heading 0 leaving the bridge. Monitor: 135
+car 62 heading 0 out of the bridge. Monitor: 136
+car 63 heading 0 wants to enter. Monitor: 136
+car 63 heading 0 enters the bridge. Monitor: 137
+car 63 heading 0 leaving the bridge. Monitor: 137
+car 63 heading 0 out of the bridge. Monitor: 138
+car 64 heading 1 wants to enter. Monitor: 138
+car 64 heading 1 enters the bridge. Monitor: 139
+car 64 heading 1 leaving the bridge. Monitor: 139
+car 64 heading 1 out of the bridge. Monitor: 140
+car 65 heading 1 wants to enter. Monitor: 140
+car 65 heading 1 enters the bridge. Monitor: 141
+car 65 heading 1 leaving the bridge. Monitor: 141
+car 65 heading 1 out of the bridge. Monitor: 142
+car 66 heading 0 wants to enter. Monitor: 142
+car 66 heading 0 enters the bridge. Monitor: 143
+car 66 heading 0 leaving the bridge. Monitor: 143
+car 66 heading 0 out of the bridge. Monitor: 144
+car 67 heading 1 wants to enter. Monitor: 144
+car 67 heading 1 enters the bridge. Monitor: 145
+car 67 heading 1 leaving the bridge. Monitor: 145
+car 67 heading 1 out of the bridge. Monitor: 146
+car 68 heading 1 wants to enter. Monitor: 146
+car 68 heading 1 enters the bridge. Monitor: 147
+car 68 heading 1 leaving the bridge. Monitor: 147
+car 68 heading 1 out of the bridge. Monitor: 148
+car 69 heading 0 wants to enter. Monitor: 148
+car 69 heading 0 enters the bridge. Monitor: 149
+car 69 heading 0 leaving the bridge. Monitor: 149
+car 69 heading 0 out of the bridge. Monitor: 150
+car 70 heading 1 wants to enter. Monitor: 150
+car 70 heading 1 enters the bridge. Monitor: 151
+car 70 heading 1 leaving the bridge. Monitor: 151
+car 70 heading 1 out of the bridge. Monitor: 152
+car 71 heading 0 wants to enter. Monitor: 152
+car 71 heading 0 enters the bridge. Monitor: 153
+car 71 heading 0 leaving the bridge. Monitor: 153
+car 71 heading 0 out of the bridge. Monitor: 154
+car 72 heading 0 wants to enter. Monitor: 154
+car 72 heading 0 enters the bridge. Monitor: 155
+car 72 heading 0 leaving the bridge. Monitor: 155
+car 72 heading 0 out of the bridge. Monitor: 156
+car 73 heading 1 wants to enter. Monitor: 156
+car 73 heading 1 enters the bridge. Monitor: 157
+car 73 heading 1 leaving the bridge. Monitor: 157
+car 73 heading 1 out of the bridge. Monitor: 158
+car 74 heading 1 wants to enter. Monitor: 158
+car 74 heading 1 enters the bridge. Monitor: 159
+car 74 heading 1 leaving the bridge. Monitor: 159
+car 74 heading 1 out of the bridge. Monitor: 160
+car 75 heading 0 wants to enter. Monitor: 160
+car 75 heading 0 enters the bridge. Monitor: 161
+car 75 heading 0 leaving the bridge. Monitor: 161
+car 75 heading 0 out of the bridge. Monitor: 162
+car 76 heading 1 wants to enter. Monitor: 162
+car 76 heading 1 enters the bridge. Monitor: 163
+car 76 heading 1 leaving the bridge. Monitor: 163
+car 76 heading 1 out of the bridge. Monitor: 164
+pedestrian 7 wants to enter. Monitor: 164
+pedestrian 7 enters the bridge. Monitor: 165
+pedestrian 7 leaving the bridge. Monitor: 167
+pedestrian 7 out of the bridge. Monitor: 168
+car 78 heading 1 wants to enter. Monitor: 166
+car 78 heading 1 enters the bridge. Monitor: 168
+car 78 heading 1 leaving the bridge. Monitor: 168
+car 78 heading 1 out of the bridge. Monitor: 169
+car 77 heading 0 wants to enter. Monitor: 165
+car 77 heading 0 enters the bridge. Monitor: 169
+car 77 heading 0 leaving the bridge. Monitor: 169
+car 77 heading 0 out of the bridge. Monitor: 170
+car 79 heading 0 wants to enter. Monitor: 170
+car 79 heading 0 enters the bridge. Monitor: 171
+car 79 heading 0 leaving the bridge. Monitor: 171
+car 79 heading 0 out of the bridge. Monitor: 172
+car 80 heading 0 wants to enter. Monitor: 172
+car 80 heading 0 enters the bridge. Monitor: 173
+car 80 heading 0 leaving the bridge. Monitor: 174
+car 80 heading 0 out of the bridge. Monitor: 175
+car 81 heading 1 wants to enter. Monitor: 173
+car 81 heading 1 enters the bridge. Monitor: 175
+car 81 heading 1 leaving the bridge. Monitor: 175
+car 81 heading 1 out of the bridge. Monitor: 176
+car 82 heading 1 wants to enter. Monitor: 176
+car 82 heading 1 enters the bridge. Monitor: 177
+car 82 heading 1 leaving the bridge. Monitor: 177
+car 82 heading 1 out of the bridge. Monitor: 178
+car 83 heading 1 wants to enter. Monitor: 178
+car 83 heading 1 enters the bridge. Monitor: 179
+car 83 heading 1 leaving the bridge. Monitor: 179
+car 83 heading 1 out of the bridge. Monitor: 180
+car 84 heading 1 wants to enter. Monitor: 180
+car 84 heading 1 enters the bridge. Monitor: 181
+car 84 heading 1 leaving the bridge. Monitor: 181
+car 84 heading 1 out of the bridge. Monitor: 182
+car 85 heading 0 wants to enter. Monitor: 182
+car 85 heading 0 enters the bridge. Monitor: 183
+car 85 heading 0 leaving the bridge. Monitor: 183
+car 85 heading 0 out of the bridge. Monitor: 184
+car 86 heading 1 wants to enter. Monitor: 184
+car 86 heading 1 enters the bridge. Monitor: 185
+car 86 heading 1 leaving the bridge. Monitor: 185
+car 86 heading 1 out of the bridge. Monitor: 186
+car 87 heading 1 wants to enter. Monitor: 186
+car 87 heading 1 enters the bridge. Monitor: 187
+car 87 heading 1 leaving the bridge. Monitor: 187
+car 87 heading 1 out of the bridge. Monitor: 188
+car 88 heading 0 wants to enter. Monitor: 188
+car 88 heading 0 enters the bridge. Monitor: 189
+car 88 heading 0 leaving the bridge. Monitor: 189
+car 88 heading 0 out of the bridge. Monitor: 190
+car 89 heading 1 wants to enter. Monitor: 190
+car 89 heading 1 enters the bridge. Monitor: 191
+car 89 heading 1 leaving the bridge. Monitor: 191
+car 89 heading 1 out of the bridge. Monitor: 192
+car 90 heading 1 wants to enter. Monitor: 192
+car 90 heading 1 enters the bridge. Monitor: 193
+car 90 heading 1 leaving the bridge. Monitor: 193
+car 90 heading 1 out of the bridge. Monitor: 194
+car 91 heading 1 wants to enter. Monitor: 194
+car 91 heading 1 enters the bridge. Monitor: 195
+car 91 heading 1 leaving the bridge. Monitor: 195
+car 91 heading 1 out of the bridge. Monitor: 196
+car 92 heading 1 wants to enter. Monitor: 196
+car 92 heading 1 enters the bridge. Monitor: 197
+car 92 heading 1 leaving the bridge. Monitor: 197
+car 92 heading 1 out of the bridge. Monitor: 198
+car 93 heading 1 wants to enter. Monitor: 198
+car 93 heading 1 enters the bridge. Monitor: 199
+car 93 heading 1 leaving the bridge. Monitor: 199
+car 93 heading 1 out of the bridge. Monitor: 200
+car 94 heading 1 wants to enter. Monitor: 200
+car 94 heading 1 enters the bridge. Monitor: 201
+car 94 heading 1 leaving the bridge. Monitor: 201
+car 94 heading 1 out of the bridge. Monitor: 202
+car 95 heading 0 wants to enter. Monitor: 202
+car 95 heading 0 enters the bridge. Monitor: 203
+car 95 heading 0 leaving the bridge. Monitor: 203
+car 95 heading 0 out of the bridge. Monitor: 204
+car 96 heading 1 wants to enter. Monitor: 204
+car 96 heading 1 enters the bridge. Monitor: 205
+car 96 heading 1 leaving the bridge. Monitor: 205
+car 96 heading 1 out of the bridge. Monitor: 206
+car 97 heading 0 wants to enter. Monitor: 206
+car 97 heading 0 enters the bridge. Monitor: 207
+car 97 heading 0 leaving the bridge. Monitor: 207
+car 97 heading 0 out of the bridge. Monitor: 208
+car 98 heading 0 wants to enter. Monitor: 208
+car 98 heading 0 enters the bridge. Monitor: 209
+car 98 heading 0 leaving the bridge. Monitor: 209
+car 98 heading 0 out of the bridge. Monitor: 210
+car 99 heading 0 wants to enter. Monitor: 210
+car 99 heading 0 enters the bridge. Monitor: 211
+car 99 heading 0 leaving the bridge. Monitor: 211
+car 99 heading 0 out of the bridge. Monitor: 212
+car 100 heading 0 wants to enter. Monitor: 212
+car 100 heading 0 enters the bridge. Monitor: 213
+car 100 heading 0 leaving the bridge. Monitor: 213
+car 100 heading 0 out of the bridge. Monitor: 214
+pedestrian 8 wants to enter. Monitor: 214
+pedestrian 8 enters the bridge. Monitor: 215
+pedestrian 8 leaving the bridge. Monitor: 215
+pedestrian 8 out of the bridge. Monitor: 216
+pedestrian 9 wants to enter. Monitor: 216
+pedestrian 9 enters the bridge. Monitor: 217
+pedestrian 9 leaving the bridge. Monitor: 218
+pedestrian 9 out of the bridge. Monitor: 219
+pedestrian 10 wants to enter. Monitor: 217
+pedestrian 10 enters the bridge. Monitor: 218
+pedestrian 10 leaving the bridge. Monitor: 219
+pedestrian 10 out of the bridge. Monitor: 220
