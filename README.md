@@ -22,3 +22,4 @@ Los códigos utilizan la biblioteca multiprocessing para permitir la ejecución 
 El código tiene tres funciones delay_ que son utilizadas para simular el tiempo que un coche o un peatón tarda en cruzar el túnel. También tiene las funciones car y pedestrian que son ejecutadas por los procesos de coches y peatones, respectivamente. Estas funciones utilizan el monitor para coordinar la entrada y salida del túnel y para asegurar que sólo un coche o peatón cruza el túnel a la vez.
 
 Los archivos txt nos muestran los resultados al ejecutar los archivos.
+El archivo pdf nos da una especificacion del codigo y nos indica en que casos se nos asegura la concurrencia, la seguridad, vivacidad y la justicia
