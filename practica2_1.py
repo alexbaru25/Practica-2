@@ -53,7 +53,7 @@ class Monitor():
         else:
             return self.n_ped.value == 0 and self.n_north_car.value == 0 and self.coche_seguidos.value < Seguidos_coches
 
-
+    #Analiza si el coche con la direccion dada pasa, en caso de que no sea así el se bloquea hasta nuevo aviso
     def wants_enter_car(self, direction: int) -> None:
         self.mutex.acquire()
         self.patata.value += 1
@@ -71,6 +71,7 @@ class Monitor():
             self.peatones_seguidos.value = 0
         self.mutex.release()
 
+    #Funcion que nos indica cuando un coche sale, y despierta a los peatones o los coches de la direccion contraria segun que casos    
     def leaves_car(self, direction: int) -> None:
         self.mutex.acquire() 
         self.patata.value += 1
@@ -85,7 +86,8 @@ class Monitor():
                 self.no_south_car.notify_all()
                 self.no_ped.notify_all()
         self.mutex.release()
-
+        
+    #Analiza si el peaton pasa, en caso de que no sea así el se bloquea hasta nuevo aviso 
     def wants_enter_pedestrian(self) -> None:
         self.mutex.acquire()
         self.patata.value += 1
@@ -97,6 +99,7 @@ class Monitor():
         #print(self.n_ped.value)
         self.mutex.release()
 
+    #Funcion que nos indica cuando un peaton sale, y despierta a los coches de la direccion contraria segun que casos    
     def leaves_pedestrian(self) -> None:
         self.mutex.acquire()
         self.patata.value += 1
